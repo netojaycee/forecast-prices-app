@@ -31,3 +31,6 @@ out/
 # OS files
 .DS_Store
 Thumbs.db
+
+note.txt
+fe/
